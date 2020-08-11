@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;padding:0px;box-sizing: border-box}
+footer{	background-color:orangered;line-height: 3;width: 100%;align-self:flex-end}
+.grancontainer{width:100%;max-width:1200px;margin: auto;padding: 40px}.containerbody{display: flex;justify-content:space-between}.colum1{width: 400px}.colum1 h1{font-size: 20px}.colum1 p{font-size: 18px;margin-top: 20px}.colum2{max-width: 400px;}.colum2 h1{font-size: 20px}.row{margin-top: 5px;display: flex}.row img{width:  35px; height: 35px;margin-top: 7px}.row label{margin-left: 7px}.colum3{max-width: 400px}.colum3 h1{font-size: 20px}.row2{margin-top: 20px;display: flex}.row2 img{ width: 35px;height:35px}.row2 label{ margin-left: 20px;max-width: 200px}.containerfootter{width: 100%;display: flex;justify-content: space-between;padding: 20px;background-color:  #FB6D00}.copyrigth{font-size: bold}.informacion img {}.informacion a {text-decoration: none;color: azure}.btn1{border:1px color white;background-color: #FF3300;border-radius: 10px 10px 10px;padding:10px}.card-body a{ text-decoration: none;color: white}
+.gif1,.gif2,.gif3,.gif4,.gif5{padding: 3px}
+
+@media screen and (max-width: 1100px){.containerbody{flex-wrap: wrap}.colum1{max-width: 100%}.colum2,.colum3{margin-top: 20px}}
+
+
+
+
+
