@@ -2,7 +2,7 @@
 /* CSS Document */
 body h1{ font-size: 20px !important;}
 .container{width:1113px;}
-.encabezado{color:white;background: linear-gradient(rgba(216, 216, 219, 0.75),rgba(5,7,12,0.75));width: 100%;margin: 10px; }
+.encabezado{color:white;background: linear-gradient(rgba(216, 216, 219, 0.3),rgba(5,7,12,0.3));width: 100%;margin: 10px; }
 .tecnologias  h1{width:50%; background-color:black;color: white; padding: 10px; margin: 10px;border-radius: 20px}
 .carddiseno h1{ color: white;background-color: black; width: 70%;}
 .imgdiseno{margin: 10px}
